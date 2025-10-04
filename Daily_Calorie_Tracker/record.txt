@@ -1,0 +1,30 @@
+
+session date: 4/10/2025
+Meal Name	Calories
+-------------------------
+breakfast 	300.0
+lunch	253.7
+dinner	158.2
+Total:	711.9
+Average:	237.30
+Within daily calorie limit.
+-------------------------
+
+session date: 05/10/2025
+Meal Name	Calories
+-------------------------
+breakfast	243.0
+dinner	241.0
+Total:	484.0
+Average:	242.00
+Within daily calorie limit.
+-------------------------
+
+session date: 06/10/2025
+Meal Name	Calories
+-------------------------
+Total:	0
+Average:	0.00
+Within daily calorie limit.
+-------------------------
+
