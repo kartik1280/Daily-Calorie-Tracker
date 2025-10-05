@@ -1,6 +1,6 @@
 #Tracker.py
 #name: Kartik Sharma
-#date: 
+#date: 5/10/2025
 #project_title: Daily Calorie Tracker CLI
 
 print("Welcome to the Daily Calorie Tracker!")
@@ -68,3 +68,4 @@ else:
 
 print("")
 print("Thank you for using the Daily Calorie Tracker!\nStay healthy and have a great day! 😊")
+
